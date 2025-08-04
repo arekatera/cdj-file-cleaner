@@ -1,5 +1,5 @@
 # CDJ-File-Cleaner
-The cdj-file-cleaner was a script that I got ChatGPT 3.5 to develop for me to make ease of batch converting lossless files that have questionable integrity into files that will 100% of the time work with CDJs.
+The cdj-file-cleaner was a script that I got ChatGPT 3.5 to develop for me to make ease of batch converting lossless files that have questionable integrity into files that will 100% of the time work with CDJs. This is done due to older CDJs having very specific requirements when it comes to using WAV files, after a few years of using this script I can say with full confidence that it works on any CDJ you can stick a USB into.
 
 ## Note
 As of reuploading, this script hasn't been touched once, so things may have broken. I intend to eventually update this with features such as automatic metadata conversion, but this may not happen. 
